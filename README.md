@@ -8,9 +8,8 @@ print(y) # print imprimiendo el valor de y
 print(x+y) #print haciendo la suma de las variables
 
 
-
-![image](https://github.com/user-attachments/assets/683bbc83-0f0e-471c-9a12-b03fbdf728fb)
-![image](https://github.com/user-attachments/assets/6e452b5a-782e-4322-aca7-212d1469a14e)
+![image](https://github.com/user-attachments/assets/2522c3b2-f7a4-4e88-ab60-edffd83b36b2)
+![image](https://github.com/user-attachments/assets/0b02e7ca-409d-4585-bd76-ad66ed7cbcc3)
 
 
 
